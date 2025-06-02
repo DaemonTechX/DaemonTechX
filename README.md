@@ -1,16 +1,19 @@
-## Hi there 👋
+## ★ Github data ★
+<p align="center">
 
-<!--
-**Arby-Hex/Arby-Hex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://github.com/Arby-Hex"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Follow+Github+Vindra+ID+^_^" alt="UwU">
+  
+>
+> *Number of visitors*
+* **Visitor Github @Arby-Hex**
 
-Here are some ideas to get you started:
+>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+ - 👨‍🦱 My name is `Arby-Hex`
+ - 🏠 Live in `Depok, Jawa Barat`
+ - 👶🏻 Born in `Jawa Barat, Indonesia`
+ - 🏫 School in `smpn 37 jakarta`
+ - 🌐 Language
+   - 🇮🇩 Indonesian

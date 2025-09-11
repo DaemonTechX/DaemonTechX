@@ -4,5 +4,6 @@
 ### Our Repository
 <a href="https://github.com/DaemonTechX/Theme-X"><img title="theme-x" src="https://github-readme-stats.vercel.app/api/pin/?username=DaemonTechX&repo=Theme-X&theme=radical"></a>
 <a href="https://github.com/DaemonTechX/PyObfuscate"><img title="pyobfuscate" src="https://github-readme-stats.vercel.app/api/pin/?username=DaemonTechX&repo=PyObfuscate&theme=radical"></a>
+<a href="https://github.com/DaemonTechX/NglSpam"><img title="nglspam" src="https://github-readme-stats.vercel.app/api/pin/?username=DaemonTechX&repo=NglSpam&theme=radical"></a>
 
 
